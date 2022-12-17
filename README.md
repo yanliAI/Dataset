@@ -9,4 +9,4 @@ Extraction of laver aquaculture areas from remote sensing images is very importa
 # Dataset Description
 This dataset contains 3400 256*256 images for training and 760 for validation and testing. Note that the images in the training set are normalised using the maximum-minimum method.
 # Dataset Process
-Note that after processing, the label will be in 0-1, where 1 stands for aquaculture area, 0 stands for seawayer. In addition, we have additionally provided ground truth maps of the aquaculture area boundaries, with 0 stands seawater and 1 stands the boundary.
+Note that after processing, the label will be in 0-1, where 1 stands for aquaculture area, 0 stands for seawater. In addition, we have additionally provided ground truth maps of the aquaculture area boundaries, with 0 stands seawater and 1 stands the boundary.
